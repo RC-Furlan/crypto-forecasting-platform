@@ -149,26 +149,26 @@ Performance achieved:
 
 ### Landing Page
 
-![Landing Page](imagens/landing_page.jpg)
+![Landing Page](imagens/landing_page.png)
 
 
 Project overview, architecture, performance summary and technology stack.
 
 ### Executive Overview
 
-![Executive Overview](imagens/executive_overview.jpg)
+![Executive Overview](imagens/executive_overview.png)
 
 High-level Bitcoin market KPIs and trend analysis.
 
 ### Market Analysis
 
-![Market Analysis](imagens/market_analysis.jpg)
+![Market Analysis](imagens/market_analysis.png)
 
 Historical price behavior, volatility analysis, volume relationships and market statistics.
 
 ### Forecast Analysis
 
-![Forescast Analysis](imagens/forecast_analysis.jpg)
+![Forescast Analysis](imagens/forecast_analysis.png)
 
 Model comparison, prediction performance and forecast error analysis.
 
