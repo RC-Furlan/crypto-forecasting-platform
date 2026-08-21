@@ -267,4 +267,4 @@ streamlit run src/dashboard/app.py
 Rodrigo C. Furlan
 
 LinkedIn:
-https://www.linkedin.com/in/rodrigo-cezar-furlan-635888174/
+[https://www.linkedin.com/in/rodrigocfurlan/]
